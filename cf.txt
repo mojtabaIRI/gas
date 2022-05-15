@@ -1,4 +1,5 @@
 apt update
+28t5LE0vh8oMRFQX1xYo3Rw9JMX_5ueNgGFBTaZqJCoFXdVKY
 apt install screen -y
 apt install sudo -y
 sudo adduser aank --gecos "First Last,RoomNumber,WorkPhone,HomePhone" --disabled-password
